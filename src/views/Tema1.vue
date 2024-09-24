@@ -300,42 +300,42 @@
               img.img-mov(src='@/assets/curso/temas/41.svg', alt='')  
             .col-lg-4.my-2
               .bg3.p-4.brad 
-                p.mb-0 Busque la satisfacción total en cada cliente o usuario: Un cliente o usuario nunca debe ser visto como una interrupción.
+                p.mb-0 Busque la satisfacción total en cada cliente o usuario: un cliente o usuario nunca debe ser visto como una interrupción.
 
           .row.justify-content-center(titulo="")
             .col-lg-7.p-0 
               img.img-mov(src='@/assets/curso/temas/42.svg', alt='')  
             .col-lg-4.my-2
               .bg3.p-4.brad 
-                p.mb-0 Deje la vida personal en casa: No permita que su estado de ánimo personal afecte la manera en que trata a un cliente o usuario. 
+                p.mb-0 Deje la vida personal en casa: no permita que su estado de ánimo personal afecte la manera en que trata a un cliente o usuario. 
 
           .row.justify-content-center(titulo="")
             .col-lg-7.p-0 
               img.img-mov(src='@/assets/curso/temas/43.svg', alt='')  
             .col-lg-4.my-2
               .bg3.p-4.brad 
-                p.mb-0 Salude cortésmente a cada cliente o usuario: Es importante saludar a quien esté atendiendo. 
+                p.mb-0 Salude cortésmente a cada cliente o usuario: es importante saludar a quien esté atendiendo. 
 
           .row.justify-content-center(titulo="")
             .col-lg-7.p-0 
               img.img-mov(src='@/assets/curso/temas/44.svg', alt='')  
             .col-lg-4.my-2
               .bg3.p-4.brad 
-                p.mb-0 Nunca juzgue al cliente o usuario por su apariencia: Ante todo, mantenga el respeto. 
+                p.mb-0 Nunca juzgue al cliente o usuario por su apariencia: ante todo, mantenga el respeto. 
 
           .row.justify-content-center(titulo="")
             .col-lg-7.p-0 
               img.img-mov(src='@/assets/curso/temas/45.svg', alt='')  
             .col-lg-4.my-2
               .bg3.p-4.brad 
-                p.mb-0 No interrumpa; escuche al cliente o usuario: Espere a que termine de hablar; cada palabra es importante para brindar una orientación adecuada.
+                p.mb-0 No interrumpa; escuche al cliente o usuario: espere a que termine de hablar; cada palabra es importante para brindar una orientación adecuada.
 
           .row.justify-content-center(titulo="")
             .col-lg-7.p-0 
               img.img-mov(src='@/assets/curso/temas/46.svg', alt='')  
             .col-lg-4.my-2
               .bg3.p-4.brad 
-                p.mb-0 Trate a los demás como quisiera ser tratado: Las personas empáticas son capaces de escuchar a los demás y entender sus problemas y motivaciones. Por ello, suelen ser altamente reconocidas socialmente y populares, ya que se anticipan a las necesidades, incluso antes de que sus compañeros sean conscientes de ellas, y saben identificar y aprovechar las oportunidades comunicativas que les ofrecen otras personas.  
+                p.mb-0 Trate a los demás como quisiera ser tratado: las personas empáticas son capaces de escuchar a los demás y entender sus problemas y motivaciones. Por ello, suelen ser altamente reconocidas socialmente y populares, ya que se anticipan a las necesidades, incluso antes de que sus compañeros sean conscientes de ellas, y saben identificar y aprovechar las oportunidades comunicativas que les ofrecen otras personas.  
 
     .row.justify-content-start.mb-4
       .col-auto(data-aos="flip-down")

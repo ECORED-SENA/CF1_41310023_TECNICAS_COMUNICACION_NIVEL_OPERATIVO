@@ -244,8 +244,8 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Relaciones amorosas.', esCorrecta: false },
-            { id: 'b', texto: 'Relaciones familiares.', esCorrecta: true },
-            { id: 'c', texto: 'Diversas áreas de su vida.', esCorrecta: false },
+            { id: 'b', texto: 'Relaciones familiares.', esCorrecta: false },
+            { id: 'c', texto: 'Diversas áreas de su vida.', esCorrecta: true },
             { id: 'd', texto: 'Relaciones primarias.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
