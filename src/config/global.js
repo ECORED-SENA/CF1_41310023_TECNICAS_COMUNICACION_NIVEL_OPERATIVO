@@ -118,7 +118,7 @@ export default {
     {
       tema: 'Relaciones humanas en la empresa',
       referencia:
-        'Barnetche, M. (2019, marzo 6). <i>Importancia del respeto en las relaciones humanas</i> [Audio podcast]. En Crecimiento Personal.',
+        'Barnetche, M. (2019, marzo 6). Importancia del respeto en las relaciones humanas [Audio podcast]. En Crecimiento Personal.',
       tipo: 'Podcast ',
       link: 'https://music.youtube.com/watch?v=kEfwzVGBnoI ',
     },
